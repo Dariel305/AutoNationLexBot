@@ -1,0 +1,2 @@
+# AutoNationLexBot
+ Our team project consists of an AutoNation chat bot. The chatbot lets the costumer request about basic dealership information. The costumer can see their upcoming appointments and check the repair order status of their vehicles. When requesting for repair orders the costumer can request their line items of different car parts and the price of the parts. Different vehicles are stored for the costumer. The bot is integrated with SMS Twilio to receive and send text messages.
